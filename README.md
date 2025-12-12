@@ -1,3 +1,5 @@
+👋 Hi, I'm Nabiha Alam
+
 Aspiring Frontend Developer • HTML/CSS Lover • JavaScript Learner • Future Full-Stack web dev
 
 Welcome to my GitHub profile!
