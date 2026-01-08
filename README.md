@@ -64,7 +64,7 @@ Become a confident frontend developer
 🔗 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/nabiha-alam-04a4a6399/
-🌐 Portfolio Website: Coming soon
+🌐 Portfolio Website: https://nabihaalam2025.github.io/My-Portfolio/
 ✉ Email: nabihaalam2025@gmail.com
 
 ❤️ Thanks for Visiting!
