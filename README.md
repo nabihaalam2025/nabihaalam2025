@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile!  
 I'm a passionate 15-year-old learner from Bangladesh 🇧🇩 who loves coding and building creative web projects.
-
+![Banner](https://github.com/nabihaalam2025/nabihaalam2025/blob/main/banner.png?raw=true)
 My goal is to become a skilled front-end developer and create modern, responsive, and user-friendly websites.
 
 ---
