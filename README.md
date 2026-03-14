@@ -1,75 +1,73 @@
-👋 Hi, I'm Nabiha Alam
+# 👋 Hi, I'm Nabiha Alam
 
-Aspiring Frontend Developer • HTML/CSS Lover • JavaScript Learner • Future Full-Stack web dev
+🌸 Aspiring Front-End Developer | HTML • CSS • JavaScript Learner  
 
-Welcome to my GitHub profile!
-I’m a 15-year-old passionate learner from Bangladesh 🇧🇩 who loves coding, creating projects.
+Welcome to my GitHub profile!  
+I'm a passionate 15-year-old learner from Bangladesh 🇧🇩 who loves coding and building creative web projects.
 
-<img width="1920" height="1080" alt="githubreadme" src="https://github.com/user-attachments/assets/bae08baf-0ff2-4a7c-8b63-c1fc30dddbd4" />
+My goal is to become a skilled front-end developer and create modern, responsive, and user-friendly websites.
 
-🌸 My goal: Become a strong front-end developer and build beautiful, responsive, modern websites.
+---
 
-🌼 About Me
+## 🌼 About Me
 
-I'm Nabiha Alam, a self-taught front-end developer currently learning:
+I'm Nabiha Alam, a self-taught front-end developer currently learning and improving my skills in:
 
-✔ HTML
+✔ HTML  
+✔ CSS  
+✔ JavaScript (currently learning deeply)  
+✔ Website UI design  
+✔ Project building
 
-✔ CSS
+I enjoy creating clean user interfaces, simple solutions, and continuously improving my coding skills through practice and projects.
 
-✔ JavaScript (deep learning in progress!)
+---
 
-✔ Website UI design
+## 💻 What I Do
 
-✔ Project building for YouTube
-
-I love creating clean UI, simple solutions, and helping others learn.
-
-💻 What I Do
-
-🌟 Build simple & beautiful front-end projects
-
-🧠 Learn & practice JavaScript every day
-
-🌐 Work on personal websites & mini apps
-
-📘 Study and plan to learn CSE in the future
-
+🌟 Build simple and beautiful front-end projects  
+🧠 Practice JavaScript and improve my coding skills  
+🌐 Work on personal websites and mini web apps  
+📘 Study and plan to learn Computer Science (CSE) in the future  
 ✨ Dream: Work remotely as a developer
 
-📚 What I'm Learning Now
+---
 
-JavaScript fundamentals
+## 📚 What I'm Learning Now
 
-DOM manipulation
+• JavaScript Fundamentals  
+• DOM Manipulation  
+• Event Handling  
+• Basic Problem Solving  
+• Responsive Web Design  
+• Clean UI / UX Structure
 
-Event handling
+---
 
-Basic problem-solving
+## 🚀 Future Goals
 
-Responsive design
+✔ Master JavaScript  
+✔ Learn React  
+✔ Build real-world level projects  
+✔ Become a confident front-end developer
 
-Clean UI/UX structure
+---
 
-🚀 My Future Goals
+## 🔗 Connect With Me
 
-Master JavaScript
+💼 LinkedIn  
+https://www.linkedin.com/in/nabiha-alam-04a4a6399/
 
-Learn React
+🌐 Portfolio  
+https://nabihaalam2025.github.io/My-Portfolio/
 
-Build real-world level projects
+✉ Email  
+nabihaalam2025@gmail.com
 
-Become a confident frontend developer
+---
 
-🔗 Connect With Me
+## ❤️ Thanks for Visiting!
 
-💼 LinkedIn: https://www.linkedin.com/in/nabiha-alam-04a4a6399/
-🌐 Portfolio Website: https://nabihaalam2025.github.io/My-Portfolio/
-✉ Email: nabihaalam2025@gmail.com
+If you like my work, feel free to ⭐ star my repositories and follow me on GitHub.
 
-❤️ Thanks for Visiting!
-
-If you like my work, feel free to ⭐ star my repositories and follow me on GitHub!
-Let’s learn and grow together. 🚀
-
-
+Let's learn and grow together 🚀
