@@ -63,6 +63,12 @@ https://www.linkedin.com/in/nabiha-alam-04a4a6399/
 🌐 Portfolio  
 https://nabihaalam2025.github.io/My-Portfolio/
 
+📱Calculator 
+https://nabihaalam2025.github.io/calculator/
+
+🌐Website 
+https://nabihaalam2025.github.io/responsive-fruits-website/
+
 ✉ Email  
 nabihaalam2025@gmail.com
 
